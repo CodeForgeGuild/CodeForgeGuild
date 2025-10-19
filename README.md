@@ -1,2 +1,4 @@
-# CodeForgeGuild
-Where devs unite to craft code, conquer bugs, and forge awesome things.
+![CodeForgeGuild Banner](banner.png)
+
+## Welcome to CodeForgeGuild
+A guild of developers forging open-source projects and sharing knowledge.
